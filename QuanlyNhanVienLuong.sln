@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanlyNhanVienLuong", "QuanlyNhanVienLuong\QuanlyNhanVienLuong.csproj", "{1ED70896-5235-4A97-AEE3-A8474FEEF30C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcessLayer", "DataAcessLayer\DataAcessLayer.csproj", "{C4DED2C0-E693-4CD5-A4F4-2725F100FDBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{AE3DFDB0-8F09-4C14-A1A8-77C9E3A346A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED70896-5235-4A97-AEE3-A8474FEEF30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED70896-5235-4A97-AEE3-A8474FEEF30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED70896-5235-4A97-AEE3-A8474FEEF30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED70896-5235-4A97-AEE3-A8474FEEF30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4DED2C0-E693-4CD5-A4F4-2725F100FDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DED2C0-E693-4CD5-A4F4-2725F100FDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DED2C0-E693-4CD5-A4F4-2725F100FDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DED2C0-E693-4CD5-A4F4-2725F100FDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3DFDB0-8F09-4C14-A1A8-77C9E3A346A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3DFDB0-8F09-4C14-A1A8-77C9E3A346A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3DFDB0-8F09-4C14-A1A8-77C9E3A346A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3DFDB0-8F09-4C14-A1A8-77C9E3A346A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
